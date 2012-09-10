@@ -3,8 +3,9 @@
     "name": "生き生きする造",
     "description": "修造が応援してくれる",
     "version": "0.1",
+    "manifest_version": 2,
     "browser_action": {
-        "default_icon": "icon19.png",
+        "default_icon": "shuzo.png",
         "default_title": "生き生きする造",
         "default_popup": "popup.html"
     }
